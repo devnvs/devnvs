@@ -40,6 +40,7 @@ const felipe = {
   mission: "Build digital experiences that actually convert."
 }
 
+{
 ⚡ Tech Stack
 🧠 Currently Exploring
 Advanced JavaScript Concepts
@@ -80,3 +81,4 @@ Responsive conversion application with modern front-end architecture.
 🌐 Connect With Me
 ⚡ NEVRA SYSTEMS © 2026
 “If your business doesn’t appear online... it simply DOESN'T EXIST.”
+}
