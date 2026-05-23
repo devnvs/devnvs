@@ -40,11 +40,6 @@ const felipe = {
   mission: "Build digital experiences that actually convert."
 }
 
-Here is the entire code block ready for your GitHub profile. Just click the copy button on the code block below and paste it directly into your `README.md` file:
-
-```markdown
-<div align="center">
-
 # ⚡ FELIPE NEVES
 
 ### Front-End Developer • Web Solutions • Automation
