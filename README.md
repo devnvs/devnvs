@@ -40,67 +40,43 @@ const felipe = {
   mission: "Build digital experiences that actually convert."
 }
 
-# ⚡ Tech Stack
+⚡ Tech Stack
+🧠 Currently Exploring
+Advanced JavaScript Concepts
 
----
+Responsive Architecture
 
-# 🧠 Currently Exploring
+Landing Page Optimization
 
-* Advanced JavaScript Concepts
-* Responsive Architecture
-* Landing Page Optimization
-* Automation with N8N
-* AI + WhatsApp Integrations
-* UI/UX Systems
+Automation with N8N
 
----
+AI + WhatsApp Integrations
 
-# 🌌 Featured Projects
+UI/UX Systems
 
-## ⚡ NEVRA SYSTEMS
-
+🌌 Featured Projects
+⚡ NEVRA SYSTEMS
 Modern futuristic landing page focused on digital presence and conversion.
 
 🔗 https://devnvs.github.io/nevra-systems/
 
----
-
-## 🎲 NEVRA RANDOMIZER
-
+🎲 NEVRA RANDOMIZER
 Interactive randomizer built with JavaScript and cyber minimalist UI.
 
 🔗 https://devnvs.github.io/nevra-randomizer/
 
----
-
-## ⏱️ NEVRA CRONOMETER
-
+⏱️ NEVRA CRONOMETER
 Modern timer application focused on productivity and smooth interaction.
 
 🔗 https://github.com/devnvs/nevra-cronometer
 
----
-
-## 🔄 NEVRA CONVERTER
-
+🔄 NEVRA CONVERTER
 Responsive conversion application with modern front-end architecture.
 
 🔗 https://github.com/devnvs/nevra-converter
 
----
-
-# 📊 GitHub Analytics
-
----
-
-# 🔥 Contribution Activity
-
----
-
-# 🌐 Connect With Me
-
----
-
-### ⚡ NEVRA SYSTEMS © 2026
-
-> “If your business doesn’t appear online... it simply DOESN'T EXIST.”
+📊 GitHub Analytics
+🔥 Contribution Activity
+🌐 Connect With Me
+⚡ NEVRA SYSTEMS © 2026
+“If your business doesn’t appear online... it simply DOESN'T EXIST.”
