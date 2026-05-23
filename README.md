@@ -60,33 +60,6 @@ Here is the entire code block ready for your GitHub profile. Just click the copy
 </div>
 
 ---
-
-# 🚀 About Me
-
-```js
-const felipe = {
-  location: "Brazil",
-  role: "Front-End Developer",
-
-  focus: [
-    "Modern Interfaces",
-    "Responsive Websites",
-    "Automation Systems",
-    "AI Integrations"
-  ],
-
-  currentlyLearning: [
-    "JavaScript",
-    "Advanced UI/UX",
-    "N8N Automation",
-    "Front-End Architecture"
-  ],
-
-  mission: "Build digital experiences that actually convert."
-}
-
-```
-
 ---
 
 # ⚡ Tech Stack
