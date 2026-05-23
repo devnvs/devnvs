@@ -88,6 +88,7 @@ const felipe = {
 # 🌌 Featured Projects
 
 ## ⚡ NEVRA SYSTEMS
+
 Modern futuristic landing page focused on digital presence and conversion.
 
 🔗 https://devnvs.github.io/nevra-systems/
@@ -95,6 +96,7 @@ Modern futuristic landing page focused on digital presence and conversion.
 ---
 
 ## 🎲 NEVRA RANDOMIZER
+
 Interactive randomizer built with JavaScript and cyber minimalist UI.
 
 🔗 https://devnvs.github.io/nevra-randomizer/
@@ -102,6 +104,7 @@ Interactive randomizer built with JavaScript and cyber minimalist UI.
 ---
 
 ## ⏱️ NEVRA CRONOMETER
+
 Modern timer application focused on productivity and smooth interaction.
 
 🔗 https://github.com/devnvs/nevra-cronometer
@@ -109,6 +112,7 @@ Modern timer application focused on productivity and smooth interaction.
 ---
 
 ## 🔄 NEVRA CONVERTER
+
 Responsive conversion application with modern front-end architecture.
 
 🔗 https://github.com/devnvs/nevra-converter
@@ -161,3 +165,4 @@ Responsive conversion application with modern front-end architecture.
 
 </div>
 ````
+
